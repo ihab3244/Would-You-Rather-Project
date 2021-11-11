@@ -7,7 +7,7 @@ The project uses Node.js and the Create-React-App starter. If you do not have No
 
 Once Node is installed, navigate to the directory where you want to save the app
 
-git clone https://github.com/ihab3244/
+git clone https://github.com/ihab3244/Would-You-Rather-Project.git
 
 # Installation
 You can use npm or yarn package manager to install dependencies.
